@@ -1,0 +1,16 @@
+# Java
+**/target/
+*.class
+*.jar
+*.war
+
+# IntelliJ / VS Code
+.idea/
+.vscode/
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+
+# OS files
+.DS_Store
